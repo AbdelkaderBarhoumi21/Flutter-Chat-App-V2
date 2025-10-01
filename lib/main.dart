@@ -17,6 +17,7 @@ void main() async {
   );
 }
 
+//Main app
 class MainApp extends StatelessWidget {
   const MainApp({super.key});
 
@@ -39,7 +40,10 @@ class MainApp extends StatelessWidget {
           scaffoldBackgroundColor: Color.fromRGBO(36, 35, 49, 1.0),
           bottomNavigationBarTheme: BottomNavigationBarThemeData(
             backgroundColor: Color.fromRGBO(30, 29, 37, 1.0),
-          ), dialogTheme: DialogThemeData(backgroundColor: Color.fromRGBO(36, 35, 49, 1.0)),
+          ),
+          dialogTheme: DialogThemeData(
+            backgroundColor: Color.fromRGBO(36, 35, 49, 1.0),
+          ),
         ),
         navigatorKey: NavigationService.navigatorkey,
         initialRoute: "/login",
