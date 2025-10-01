@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "139252648146",
+    "project_id": "fir-courses-711bf",
+    "storage_bucket": "fir-courses-711bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139252648146:android:a472c535a88d437bef850b",
+        "android_client_info": {
+          "package_name": "com.example.chatify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139252648146-t7cksvkmtln9f07uldthfpc6vlfdft37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpLljCHkptsy2THd2BU18B_MxOwVhoHLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139252648146-a7j78ugp65arh1hmr0uhbvm7tg5vn710.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
